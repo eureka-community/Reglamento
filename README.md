@@ -86,7 +86,7 @@
 
 **Queda estrictamente prohibido**:   
 
-**5.1** Todas las ofertas laborales que no sigan la [Pauta Oficial de la Comunidad](Pauta-Laboral.md).
+**5.1** Todas las ofertas laborales que no sigan la [Pauta Oficial de la Comunidad](Oferta-laboral.md).
 
 **5.2** No incluir los campos mencionados en la pauta.
 
